@@ -1,4 +1,4 @@
-# Olá, eu sou aBsent 👋
+aBsent
 
 ### 💻 Desenvolvedor FullStack | Especialista em React & Node.js
 
