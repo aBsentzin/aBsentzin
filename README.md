@@ -1,5 +1,3 @@
-aBsent
-
 ### 💻 Desenvolvedor FullStack | Especialista em React & Node.js
 
 Desenvolvimento de software: tenho experiência na criação e desenvolvimento de projetos próprios, desenvolvidos integralmente por mim, atuando tanto no Frontend quanto no Backend.
